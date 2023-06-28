@@ -12,3 +12,6 @@ body {
 .hidden:hover {
     visibility: visible;
 }
+p {
+    font-family: 'Verdana', 'Geneva';
+}
